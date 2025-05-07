@@ -1,6 +1,6 @@
 Hello there 👋 
 - I'm Stefano Mavilla
-- 20 y.o.
+- 21 y.o.
 - I'm a guitarist and I study CS at UNICT DMI
 
 <!---

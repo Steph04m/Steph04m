@@ -1,7 +1,9 @@
 Hello there 👋 
 - I'm Stefano Mavilla
 - 21 y.o.
-- I'm a guitarist and I study CS at UNICT DMI
+- I play guitar and bass guitar
+- I study Computer Science at UNICT DMI
+- I love playing videogames
 
 <!---
 Steph04m/Steph04m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
